@@ -2,13 +2,13 @@
   {
     "id": 0,
     "name": "Telegram",
-    "link": "https://t.me/smakosh",
+    "link": "https://t.me/sambulosenda",
     "icon": "/icons/telegram.svg"
   },
   {
     "id": 1,
     "name": "Github",
-    "link": "https://github.com/smakosh",
+    "link": "https://github.com/sambulosenda",
     "icon": "/icons/github.svg"
   },
   {
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
+    "link": "https://twitter.com/sambulosenda",
     "icon": "/icons/twitter.svg"
   }
 ]
